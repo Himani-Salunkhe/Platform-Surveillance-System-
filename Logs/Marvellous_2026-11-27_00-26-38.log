@@ -1,0 +1,2065 @@
+--------------------------------------------------
+-------Marvellous Platform Srvilence System------
+Log file gets created at : 2026-11-27_00-26-38
+--------------------------------------------------
+
+----------------System report--------------------
+Number of active cpu cores : 12
+CPU usage : 21.2 %
+--------------------------------------------------
+RAM usage : 83.9 %
+total RAM available : 16849256448
+--------------------------------------------------
+Network Usage Report
+Sent : 115.44 MB
+Receive : 545.05 MB
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+Username : running
+CPU Usage: 949.90
+RAM Usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+Username : running
+CPU Usage: 5.50
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 188
+Name : 
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.39
+--------------------------------------------------
+PID : 232
+Name : Registry
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.29
+--------------------------------------------------
+PID : 392
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 712
+Name : smss.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 1032
+Name : IntelCpHDCPSvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 1040
+Name : csrss.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 1120
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 1128
+Name : wininit.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1144
+Name : csrss.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 1172
+Name : RtkAudUService64.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 1188
+Name : cmd.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 1220
+Name : winlogon.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.21
+--------------------------------------------------
+PID : 1276
+Name : services.exe
+Username : running
+CPU Usage: 0.90
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 1300
+Name : LsaIso.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 1308
+Name : lsass.exe
+Username : running
+CPU Usage: 4.30
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 1324
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 1396
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 1448
+Name : svchost.exe
+Username : running
+CPU Usage: 0.30
+RAM Usage : 0.45
+--------------------------------------------------
+PID : 1480
+Name : fontdrvhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 1488
+Name : fontdrvhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1496
+Name : WUDFHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 1628
+Name : svchost.exe
+Username : running
+CPU Usage: 3.10
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 1636
+Name : Dell.Connected.Service.Delivery.SubAgent.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.55
+--------------------------------------------------
+PID : 1696
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 1796
+Name : WUDFHost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 1868
+Name : dwm.exe
+Username : running
+CPU Usage: 0.60
+RAM Usage : 1.03
+--------------------------------------------------
+PID : 1912
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.49
+--------------------------------------------------
+PID : 1976
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1996
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2000
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 2012
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 2032
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2052
+Name : svchost.exe
+Username : running
+CPU Usage: 0.50
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2088
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 2108
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2120
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 2164
+Name : svchost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 2212
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 2220
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2228
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2280
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 2304
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 2320
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 2376
+Name : svchost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 2380
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 2392
+Name : WmiPrvSE.exe
+Username : running
+CPU Usage: 0.30
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 2536
+Name : svchost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 2628
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2724
+Name : WUDFHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2744
+Name : svchost.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 2800
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 3004
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.10
+--------------------------------------------------
+PID : 3100
+Name : scsecsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 3116
+Name : arwsrvc.exe
+Username : running
+CPU Usage: 0.30
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 3220
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 3232
+Name : Dell.TechHub.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.61
+--------------------------------------------------
+PID : 3280
+Name : NgcIso.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 3296
+Name : armsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 3308
+Name : svchost.exe
+Username : running
+CPU Usage: 0.50
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 3316
+Name : MicrosoftStartFeedProvider.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.31
+--------------------------------------------------
+PID : 3336
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 3344
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 3352
+Name : svchost.exe
+Username : running
+CPU Usage: 2.20
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 3364
+Name : bssiss.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 3388
+Name : Dell.UCA.Manager.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.61
+--------------------------------------------------
+PID : 3436
+Name : MemCompression
+Username : running
+CPU Usage: 0.60
+RAM Usage : 2.92
+--------------------------------------------------
+PID : 3488
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 3524
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 3532
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 3544
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 3660
+Name : wssrvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 3712
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 3740
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 3832
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 3840
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 4008
+Name : Dell.TechHub.Diagnostics.SubAgent.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.14
+--------------------------------------------------
+PID : 4020
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 4088
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 4140
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 4148
+Name : qhccmsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 4216
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 4236
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 4272
+Name : scanwscsex.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 4284
+Name : svchost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 4296
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 4344
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 4384
+Name : emlproxy.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 4440
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 4540
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.51
+--------------------------------------------------
+PID : 4596
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 4712
+Name : spoolsv.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 4756
+Name : SystemSettings.exe
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 4788
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 4804
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 4900
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 4924
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5028
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 5060
+Name : opssvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 5116
+Name : bdssvc.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.64
+--------------------------------------------------
+PID : 5128
+Name : OfficeClickToRun.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.43
+--------------------------------------------------
+PID : 5144
+Name : svchost.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.33
+--------------------------------------------------
+PID : 5176
+Name : ipfsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5184
+Name : GameInputRedistService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 5208
+Name : ollama app.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 5252
+Name : AdobeCollabSync.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 5324
+Name : IntelAudioService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 5368
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5416
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 5428
+Name : ipf_uf.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5436
+Name : jhi_service.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 5464
+Name : servicehost.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.32
+--------------------------------------------------
+PID : 5536
+Name : quhlpsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 5584
+Name : reprsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 5632
+Name : RstMwService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5644
+Name : RtkAudUService64.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 5656
+Name : spsvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 5680
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5700
+Name : RtkBtManServ.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 5708
+Name : GameInputRedistService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 5716
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 5724
+Name : AdobeCollabSync.exe
+Username : running
+CPU Usage: 0.50
+RAM Usage : 0.29
+--------------------------------------------------
+PID : 5756
+Name : GoodixSessionService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 5780
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 5788
+Name : WavesAudioService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 5852
+Name : svchost.exe
+Username : running
+CPU Usage: 2.60
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 5884
+Name : WMIRegistrationService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 5936
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5948
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 5956
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.63
+--------------------------------------------------
+PID : 6076
+Name : WavesSysSvc64.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.44
+--------------------------------------------------
+PID : 6140
+Name : Code.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.57
+--------------------------------------------------
+PID : 6148
+Name : ipf_helper.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 6232
+Name : SupportAssistAgent.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.77
+--------------------------------------------------
+PID : 6260
+Name : XboxService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 6908
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 7028
+Name : XboxService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 7188
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 7200
+Name : DellSupportAssistRemedationService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.64
+--------------------------------------------------
+PID : 7220
+Name : Code.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.88
+--------------------------------------------------
+PID : 7248
+Name : onlinent.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.45
+--------------------------------------------------
+PID : 7524
+Name : WUDFHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 7808
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.72
+--------------------------------------------------
+PID : 7956
+Name : StartMenuExperienceHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.13
+--------------------------------------------------
+PID : 7980
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 8040
+Name : AggregatorHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 8244
+Name : GameInputRawInputProxy.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 8256
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 8292
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 8436
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 8732
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.69
+--------------------------------------------------
+PID : 8776
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 8844
+Name : svchost.exe
+Username : running
+CPU Usage: 0.40
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 8888
+Name : uihost.exe
+Username : running
+CPU Usage: 0.50
+RAM Usage : 0.24
+--------------------------------------------------
+PID : 8944
+Name : WmiPrvSE.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 8948
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.29
+--------------------------------------------------
+PID : 9084
+Name : chrome.exe
+Username : running
+CPU Usage: 0.30
+RAM Usage : 1.66
+--------------------------------------------------
+PID : 9184
+Name : cmd.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 9404
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 9840
+Name : Code.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.71
+--------------------------------------------------
+PID : 10108
+Name : py.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 10172
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.60
+--------------------------------------------------
+PID : 10200
+Name : unsecapp.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 10292
+Name : svchost.exe
+Username : running
+CPU Usage: 2.80
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 10316
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 10356
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.36
+--------------------------------------------------
+PID : 10404
+Name : OpenConsole.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 10500
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 10636
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 10644
+Name : fcmcomm.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 10700
+Name : gamingservices.exe
+Username : running
+CPU Usage: 1.10
+RAM Usage : 0.31
+--------------------------------------------------
+PID : 10716
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 10748
+Name : gamingservicesnet.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 10860
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 10916
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 10920
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 10956
+Name : sihost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.43
+--------------------------------------------------
+PID : 10992
+Name : Code.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.49
+--------------------------------------------------
+PID : 11020
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 11044
+Name : fcmcomm.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.41
+--------------------------------------------------
+PID : 11076
+Name : OpenConsole.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 11184
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 11236
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 11284
+Name : IntelGraphicsSoftware.Service.Graphics.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 11292
+Name : taskhostw.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 11408
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 11560
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 11728
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 11760
+Name : TitanCoreSubAgent.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.45
+--------------------------------------------------
+PID : 11832
+Name : explorer.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 2.91
+--------------------------------------------------
+PID : 11868
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 11888
+Name : CrossDeviceResume.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.38
+--------------------------------------------------
+PID : 11968
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.37
+--------------------------------------------------
+PID : 12076
+Name : SecurityHealthSystray.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 12120
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 12204
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 12592
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 12732
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 12768
+Name : CrossDeviceService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.69
+--------------------------------------------------
+PID : 13020
+Name : Code.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 1.34
+--------------------------------------------------
+PID : 13028
+Name : RtkAudUService64.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 13132
+Name : Dell.Connected.Service.Delivery.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 13380
+Name : EdgeGameAssist.exe
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.45
+--------------------------------------------------
+PID : 13408
+Name : svchost.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 13504
+Name : Dell.TechHub.Instrumentation.UserProcess.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.88
+--------------------------------------------------
+PID : 13556
+Name : dllhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 13620
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 13692
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 13792
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 13964
+Name : SearchFilterHost.exe
+Username : running
+CPU Usage: 4.30
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 14188
+Name : unsecapp.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 14208
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.29
+--------------------------------------------------
+PID : 14356
+Name : SearchHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.83
+--------------------------------------------------
+PID : 14416
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 14548
+Name : WidgetBoard.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 14628
+Name : UserOOBEBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 14668
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.46
+--------------------------------------------------
+PID : 14672
+Name : pet.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 14988
+Name : WidgetService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 15040
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.40
+--------------------------------------------------
+PID : 15088
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 15144
+Name : DellOptimizer.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.69
+--------------------------------------------------
+PID : 15192
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 15232
+Name : Dell.TechHub.DataManager.SubAgent.exe
+Username : running
+CPU Usage: 3.90
+RAM Usage : 0.90
+--------------------------------------------------
+PID : 15988
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.41
+--------------------------------------------------
+PID : 15996
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 16044
+Name : WavesSvc64.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 16084
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 16120
+Name : Dell.Update.SubAgent.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.38
+--------------------------------------------------
+PID : 16172
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 16220
+Name : TextInputHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.59
+--------------------------------------------------
+PID : 16328
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 16344
+Name : ShellExperienceHost.exe
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.54
+--------------------------------------------------
+PID : 16576
+Name : SecurityHealthService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 16896
+Name : ctfmon.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 16908
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 17044
+Name : SearchIndexer.exe
+Username : running
+CPU Usage: 152.80
+RAM Usage : 1.67
+--------------------------------------------------
+PID : 17064
+Name : Photos.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.57
+--------------------------------------------------
+PID : 17128
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.15
+--------------------------------------------------
+PID : 17176
+Name : LockApp.exe
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.72
+--------------------------------------------------
+PID : 17200
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.44
+--------------------------------------------------
+PID : 17256
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 17312
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 17844
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.45
+--------------------------------------------------
+PID : 17896
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 17916
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 18012
+Name : Dell.Optimizer.DthProxy.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.44
+--------------------------------------------------
+PID : 18096
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 18144
+Name : AcrobatNotificationClient.exe
+Username : stopped
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 18168
+Name : ms-teams.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 18372
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 18396
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 18440
+Name : SDXHelper.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 18472
+Name : WhatsApp.Root.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 1.25
+--------------------------------------------------
+PID : 18604
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 18612
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 18708
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.43
+--------------------------------------------------
+PID : 18732
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 18740
+Name : OneDrive.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.24
+--------------------------------------------------
+PID : 18748
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 18908
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 18916
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 18972
+Name : msedgewebview2.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 18984
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 19080
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 19172
+Name : PresentMonService.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 19264
+Name : Dell.TechHub.Analytics.SubAgent.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 1.12
+--------------------------------------------------
+PID : 19396
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.51
+--------------------------------------------------
+PID : 19400
+Name : Dell.CoreServices.Client.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.18
+--------------------------------------------------
+PID : 19800
+Name : copilot-runtime.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.37
+--------------------------------------------------
+PID : 19876
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.60
+--------------------------------------------------
+PID : 20156
+Name : Code.exe
+Username : running
+CPU Usage: 1.10
+RAM Usage : 3.35
+--------------------------------------------------
+PID : 20200
+Name : msdtc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 20492
+Name : ONENOTEM.EXE
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 20532
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 20544
+Name : Code.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 1.08
+--------------------------------------------------
+PID : 20548
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.30
+--------------------------------------------------
+PID : 20588
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 20596
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 20808
+Name : ollama.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 20860
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 21184
+Name : ApplicationFrameHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 21204
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 21268
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.40
+--------------------------------------------------
+PID : 21344
+Name : Dell.UCA.Systray.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.94
+--------------------------------------------------
+PID : 21372
+Name : browserhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 21496
+Name : Dell.D3.WinSvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.58
+--------------------------------------------------
+PID : 21844
+Name : OpenConsole.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 22012
+Name : chrome.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 22064
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 22128
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 22212
+Name : IntelGraphicsSoftware.Service.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 22316
+Name : Code.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.84
+--------------------------------------------------
+PID : 22404
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 22484
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 34.40
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 22652
+Name : python.exe
+Username : running
+CPU Usage: 6.80
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 23060
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 23076
+Name : RuntimeBroker.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 23468
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 24072
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 24108
+Name : WmiPrvSE.exe
+Username : running
+CPU Usage: 2.00
+RAM Usage : 0.25
+--------------------------------------------------
+PID : 24128
+Name : chrome.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.38
+--------------------------------------------------
+PID : 24356
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 24556
+Name : ai.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 24572
+Name : msedge.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 24600
+Name : sapissvc.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.61
+--------------------------------------------------
+PID : 24952
+Name : Code.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.77
+--------------------------------------------------
+PID : 25072
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 25144
+Name : taskhostw.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 25276
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 25292
+Name : cmd.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 25388
+Name : OpenConsole.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 25396
+Name : WindowsTerminal.exe
+Username : running
+CPU Usage: 2.30
+RAM Usage : 0.84
+--------------------------------------------------
+PID : 25584
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 25764
+Name : ShellHost.exe
+Username : running
+CPU Usage: 0.20
+RAM Usage : 0.78
+--------------------------------------------------
+PID : 26604
+Name : OpenConsole.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 26884
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 26996
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 27496
+Name : qhpisvr.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 27672
+Name : cmd.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 27788
+Name : Code.exe
+Username : running
+CPU Usage: 3.00
+RAM Usage : 3.17
+--------------------------------------------------
+PID : 27908
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 27976
+Name : Dell.TechHub.Instrumentation.SubAgent.exe
+Username : running
+CPU Usage: 2.90
+RAM Usage : 1.72
+--------------------------------------------------
+PID : 28172
+Name : WINWORD.EXE
+Username : running
+CPU Usage: 0.00
+RAM Usage : 1.88
+--------------------------------------------------
+PID : 28444
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 28496
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 29128
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 29500
+Name : powershell.exe
+Username : running
+CPU Usage: 0.10
+RAM Usage : 0.39
+--------------------------------------------------
+PID : 29612
+Name : WUDFHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 29764
+Name : SearchFilterHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 30436
+Name : conhost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 30688
+Name : SearchFilterHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 30712
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 30876
+Name : SearchFilterHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 31068
+Name : Code.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.84
+--------------------------------------------------
+PID : 31084
+Name : Code.exe
+Username : running
+CPU Usage: 0.60
+RAM Usage : 3.17
+--------------------------------------------------
+PID : 31400
+Name : SearchProtocolHost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 31516
+Name : powershell.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.56
+--------------------------------------------------
+PID : 31636
+Name : svchost.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.37
+--------------------------------------------------
+PID : 31716
+Name : OneDrive.Sync.Service.exe
+Username : running
+CPU Usage: 0.00
+RAM Usage : 0.25
+--------------------------------------------------
+--------------------------------------------------
+---------------End of Log file-------------------
+--------------------------------------------------
